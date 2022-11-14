@@ -10,3 +10,4 @@ DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
 
 st.header('boo!!!')
 st.write('hello there, my fellow potatoes')
+st.wirte('rish gay')
